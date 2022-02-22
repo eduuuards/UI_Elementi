@@ -9,6 +9,8 @@ Unity projekts ar UI Elementu lietojumu.
 - [x] Image elements
 - [x] Panel elements
 - [x] Slider elements
-- [ ] Audio source elements
-- [ ] C# Scriptu izveide 
-- [ ] 
+- [x] Audio source elements
+- [x] C# Scriptu izveide 
+- [ ] Iespeja parvietot objektu ar peli
+- [ ] Ieviest scrollbar
+ 
